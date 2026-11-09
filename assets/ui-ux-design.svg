@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="760" viewBox="0 0 960 760" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="67" y1="20" x2="892" y2="748" gradientUnits="userSpaceOnUse"><stop stop-color="#EDF2EA"/><stop offset="1" stop-color="#DCE5D8"/></linearGradient>
+    <linearGradient id="feature" x1="475" y1="224" x2="770" y2="403" gradientUnits="userSpaceOnUse"><stop stop-color="#A6FF00"/><stop offset="1" stop-color="#72BD13"/></linearGradient>
+    <filter id="shadow" x="157" y="93" width="672" height="589" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="17"/></filter>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h960v760H0z"/>
+  <circle cx="834" cy="107" r="179" fill="#A6FF00" fill-opacity=".13"/>
+  <circle cx="88" cy="715" r="197" fill="#A6FF00" fill-opacity=".1"/>
+  <rect x="183" y="120" width="590" height="513" rx="24" fill="#243024" fill-opacity=".14" filter="url(#shadow)"/>
+  <rect x="178" y="111" width="604" height="527" rx="22" fill="#FBFCF9" stroke="#C9D3C7"/>
+  <path d="M179 164h602" stroke="#E0E6DE"/>
+  <circle cx="205" cy="138" r="4" fill="#D8DFD5"/><circle cx="220" cy="138" r="4" fill="#D8DFD5"/><circle cx="235" cy="138" r="4" fill="#D8DFD5"/>
+  <rect x="259" y="131" width="176" height="14" rx="7" fill="#EEF1EB"/>
+  <text x="211" y="200" fill="#233126" font-family="Arial,sans-serif" font-size="13" font-weight="700">STUDIO / DIGITAL EXPERIENCES</text>
+  <text x="666" y="200" fill="#657365" font-family="Arial,sans-serif" font-size="10">WORK  ABOUT  CONTACT</text>
+  <text x="211" y="254" fill="#223126" font-family="Arial,sans-serif" font-size="32" font-weight="700">Thoughtful by</text>
+  <text x="211" y="291" fill="#223126" font-family="Arial,sans-serif" font-size="32" font-weight="700">design.</text>
+  <text x="211" y="319" fill="#758174" font-family="Arial,sans-serif" font-size="11">Digital products with purpose, clarity, and a little</text>
+  <text x="211" y="336" fill="#758174" font-family="Arial,sans-serif" font-size="11">room to breathe.</text>
+  <rect x="211" y="356" width="112" height="34" rx="17" fill="#1C2A1D"/>
+  <text x="230" y="378" fill="#F4F7F1" font-family="Arial,sans-serif" font-size="10" font-weight="700">Explore the work</text>
+  <rect x="475" y="224" width="273" height="181" rx="17" fill="url(#feature)"/>
+  <circle cx="688" cy="269" r="47" fill="#F2F6E9" fill-opacity=".4"/>
+  <path d="M576 282c23-35 77-37 103-2 17 23 10 58-13 73-25 16-61 7-72-19-9-21 1-47 20-55 20-9 44 2 49 22 4 15-7 30-22 31-11 0-19-7-19-17" stroke="#324832" stroke-width="12" stroke-linecap="round"/>
+  <path d="M600 359c40 3 83-6 111-29" stroke="#F4F7E9" stroke-opacity=".6" stroke-width="2"/>
+  <text x="495" y="385" fill="#233126" font-family="Arial,sans-serif" font-size="10" font-weight="700">A calmer kind of commerce.</text>
+  <text x="211" y="444" fill="#253329" font-family="Arial,sans-serif" font-size="14" font-weight="700">Made for people</text>
+  <text x="211" y="464" fill="#7C887A" font-family="Arial,sans-serif" font-size="10">Simple journeys. Meaningful details.</text>
+  <rect x="211" y="485" width="164" height="96" rx="12" fill="#F0F3ED" stroke="#E1E7DE"/>
+  <rect x="390" y="485" width="164" height="96" rx="12" fill="#F0F3ED" stroke="#E1E7DE"/>
+  <rect x="569" y="485" width="179" height="96" rx="12" fill="#F0F3ED" stroke="#E1E7DE"/>
+  <circle cx="240" cy="516" r="12" fill="#D9E8CF"/><path d="M234 516h12M240 510v12" stroke="#587A48" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="261" y="507" width="74" height="7" rx="3.5" fill="#53634F"/><rect x="261" y="522" width="95" height="5" rx="2.5" fill="#C5CFC2"/>
+  <rect x="228" y="546" width="130" height="22" rx="11" fill="#D9E8CF"/>
+  <circle cx="419" cy="516" r="12" fill="#E6E0CE"/><path d="M413 516h12M419 510v12" stroke="#8A794D" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="440" y="507" width="74" height="7" rx="3.5" fill="#53634F"/><rect x="440" y="522" width="95" height="5" rx="2.5" fill="#C5CFC2"/>
+  <rect x="407" y="546" width="130" height="22" rx="11" fill="#E9E5D9"/>
+  <circle cx="598" cy="516" r="12" fill="#D8E5E8"/><path d="M592 516h12M598 510v12" stroke="#4E7780" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="619" y="507" width="83" height="7" rx="3.5" fill="#53634F"/><rect x="619" y="522" width="106" height="5" rx="2.5" fill="#C5CFC2"/>
+  <rect x="586" y="546" width="145" height="22" rx="11" fill="#DBE6E7"/>
+  <text x="61" y="83" fill="#4F6A45" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">UI / UX  •  DIGITAL DESIGN</text>
+  <text x="61" y="688" fill="#263328" font-family="Arial,sans-serif" font-size="15" font-weight="700">Clear, useful, and made to feel right.</text>
+  <rect x="61" y="708" width="86" height="3" rx="1.5" fill="#69A91E"/>
+</svg>

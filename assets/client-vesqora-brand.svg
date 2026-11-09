@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="30" y1="25" x2="492" y2="337" gradientUnits="userSpaceOnUse"><stop stop-color="#A6FF00"/><stop offset="1" stop-color="#355B1C"/></linearGradient>
+    <linearGradient id="bottle" x1="152" y1="114" x2="282" y2="291" gradientUnits="userSpaceOnUse"><stop stop-color="#F4F7E5" stop-opacity=".85"/><stop offset="1" stop-color="#C9E49B" stop-opacity=".42"/></linearGradient>
+  </defs>
+  <rect x="22" y="22" width="476" height="316" rx="28" fill="url(#bg)" fill-opacity=".74"/>
+  <circle cx="376" cy="104" r="79" fill="#E6F7CC" fill-opacity=".18"/>
+  <circle cx="376" cy="104" r="55" stroke="#E7FFCA" stroke-opacity=".48" stroke-width="2"/>
+  <circle cx="376" cy="104" r="32" stroke="#E7FFCA" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="177" y="126" width="112" height="159" rx="25" fill="url(#bottle)" stroke="#F1FFDE" stroke-opacity=".76" stroke-width="3"/>
+  <path d="M202 125v-22a31 31 0 0 1 62 0v22" stroke="#E9FFD0" stroke-opacity=".8" stroke-width="8"/>
+  <rect x="197" y="184" width="72" height="47" rx="9" fill="#F4F8E8" fill-opacity=".42"/>
+  <path d="m232 194-13 18h11l-4 12 16-20h-11l4-10h-3Z" fill="#638D32" fill-opacity=".85"/>
+  <path d="M90 105c16-25 43-25 58 0s42 25 58 0m103 135c17-25 44-25 60 0s42 25 59 0" stroke="#EBFFD8" stroke-opacity=".58" stroke-width="3"/>
+  <path d="M108 270c0-20 16-36 36-36m269-15c20 0 36 16 36 36" stroke="#EBFFD8" stroke-opacity=".58" stroke-width="3"/>
+</svg>

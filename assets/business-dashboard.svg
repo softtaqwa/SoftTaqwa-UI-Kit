@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="760" viewBox="0 0 960 760" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="50" x2="893" y2="735" gradientUnits="userSpaceOnUse"><stop stop-color="#101A13"/><stop offset="1" stop-color="#203E14"/></linearGradient>
+    <linearGradient id="chart" x1="304" y1="540" x2="774" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#A6FF00" stop-opacity=".08"/><stop offset="1" stop-color="#A6FF00" stop-opacity=".42"/></linearGradient>
+    <linearGradient id="line" x1="312" y1="509" x2="778" y2="353" gradientUnits="userSpaceOnUse"><stop stop-color="#8AE300"/><stop offset="1" stop-color="#D1FF67"/></linearGradient>
+    <filter id="shadow" x="157" y="107" width="659" height="559" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h960v760H0z"/>
+  <circle cx="780" cy="111" r="217" fill="#A6FF00" fill-opacity=".06"/>
+  <circle cx="176" cy="689" r="244" fill="#A6FF00" fill-opacity=".035"/>
+  <rect x="194" y="142" width="590" height="503" rx="26" fill="#000" fill-opacity=".24" filter="url(#shadow)"/>
+  <rect x="183.5" y="130.5" width="593" height="515" rx="25.5" fill="#101611" stroke="#60734B" stroke-opacity=".55"/>
+  <path d="M184 194h592" stroke="#354231"/>
+  <circle cx="215" cy="163" r="5" fill="#FF716A"/><circle cx="234" cy="163" r="5" fill="#F5C45A"/><circle cx="253" cy="163" r="5" fill="#8EDB60"/>
+  <text x="281" y="168" fill="#9AA99A" font-family="Arial,sans-serif" font-size="12">softtaqwa / overview</text>
+  <rect x="703" y="150" width="48" height="25" rx="12.5" fill="#25351F"/><circle cx="737" cy="162.5" r="8" fill="#A6FF00"/>
+  <text x="222" y="242" fill="#F5F7F2" font-family="Arial,sans-serif" font-size="23" font-weight="700">Business overview</text>
+  <text x="222" y="265" fill="#879486" font-family="Arial,sans-serif" font-size="12">Your performance at a glance</text>
+  <rect x="222" y="292" width="164" height="83" rx="13" fill="#19231A" stroke="#2B382B"/>
+  <rect x="401" y="292" width="164" height="83" rx="13" fill="#19231A" stroke="#2B382B"/>
+  <rect x="580" y="292" width="164" height="83" rx="13" fill="#19231A" stroke="#2B382B"/>
+  <text x="238" y="316" fill="#95A091" font-family="Arial,sans-serif" font-size="11">TOTAL REVENUE</text>
+  <text x="238" y="346" fill="#F4F7F2" font-family="Arial,sans-serif" font-size="23" font-weight="700">$48,290</text>
+  <text x="238" y="363" fill="#A6FF00" font-family="Arial,sans-serif" font-size="10">+12.8% this month</text>
+  <text x="417" y="316" fill="#95A091" font-family="Arial,sans-serif" font-size="11">NEW CUSTOMERS</text>
+  <text x="417" y="346" fill="#F4F7F2" font-family="Arial,sans-serif" font-size="23" font-weight="700">1,284</text>
+  <text x="417" y="363" fill="#A6FF00" font-family="Arial,sans-serif" font-size="10">+8.2% this month</text>
+  <text x="596" y="316" fill="#95A091" font-family="Arial,sans-serif" font-size="11">CONVERSION</text>
+  <text x="596" y="346" fill="#F4F7F2" font-family="Arial,sans-serif" font-size="23" font-weight="700">6.84%</text>
+  <text x="596" y="363" fill="#A6FF00" font-family="Arial,sans-serif" font-size="10">+2.4% this month</text>
+  <rect x="222" y="395" width="522" height="213" rx="14" fill="#151E16" stroke="#2B382B"/>
+  <text x="241" y="424" fill="#E8EEE5" font-family="Arial,sans-serif" font-size="13" font-weight="700">Revenue growth</text>
+  <text x="241" y="443" fill="#839081" font-family="Arial,sans-serif" font-size="10">Monthly performance</text>
+  <path d="M252 555h460M252 517h460M252 479h460" stroke="#344032" stroke-dasharray="3 7"/>
+  <path d="M252 560 310 536l55 12 58-43 54 14 60-57 52 18 58-48 65-20v128H252Z" fill="url(#chart)"/>
+  <path d="m252 560 58-24 55 12 58-43 54 14 60-57 52 18 58-48 65-20" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="652" cy="412" r="4" fill="#A6FF00"/><text x="663" y="416" fill="#95A091" font-family="Arial,sans-serif" font-size="10">Revenue</text>
+  <text x="246" y="586" fill="#788475" font-family="Arial,sans-serif" font-size="9">JAN</text><text x="327" y="586" fill="#788475" font-family="Arial,sans-serif" font-size="9">FEB</text><text x="408" y="586" fill="#788475" font-family="Arial,sans-serif" font-size="9">MAR</text><text x="489" y="586" fill="#788475" font-family="Arial,sans-serif" font-size="9">APR</text><text x="570" y="586" fill="#788475" font-family="Arial,sans-serif" font-size="9">MAY</text><text x="651" y="586" fill="#788475" font-family="Arial,sans-serif" font-size="9">JUN</text>
+  <text x="51" y="84" fill="#A6FF00" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">SOFT TAQWA  /  BUSINESS SUITE</text>
+  <rect x="52" y="680" width="86" height="3" rx="1.5" fill="#A6FF00"/>
+  <text x="52" y="711" fill="#EAF2E6" font-family="Arial,sans-serif" font-size="15" font-weight="700">Clarity for every decision.</text>
+</svg>
